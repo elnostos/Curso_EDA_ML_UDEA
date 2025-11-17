@@ -1,2 +1,5 @@
 my_california_housing_model.pkl
 my_california_housing_model.pkl
+
+# Ignore secrets in '.env'
+.env
